@@ -41,11 +41,11 @@ function Portfolio() {
       image: "pro-note"
     },
     {
-    name: 'pro-note',
-    description: 'This is an Express.js-based note-taking application that allows users to create, retrieve, update, and delete notes.',
-    link: "https://pro-note.herokuapp.com/",
-    repo: "https://github.com/Keegan-Omel/Note-Taker-App",
-    image: "led-wall"
+    name: 'xrpl-wallet',
+    description: 'XRPL-Wallet is a simple browser-based wallet for the XRP Ledger',
+    link: "",
+    repo: "https://github.com/Keegan-Omel/XRPL-Wallet",
+    image: "xrpl-wallet"
   },
   ]);
 
