@@ -1,5 +1,5 @@
 import React from 'react';
-import coverImage from '../../assets/cover/cover-image.jpg';
+import coverImage from '../../assets/cover/pexels-micotino-10044645.jpg';
 
 function Header(props) {
 
