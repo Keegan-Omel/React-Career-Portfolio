@@ -129,9 +129,8 @@ button[disabled] {
 img {
   max-width: 100%;
   object-fit: cover;
-  object-fit: cover;
 }
-}
+
 
 span[role='img'] {
   cursor: default;
@@ -183,7 +182,7 @@ header img {
   top: 0;
   left: 0;
   height: auto;
-  filter: sepia(1) opacity(60%);
+  filter: sepia(1) opacity(90%);
   opacity: 0.5;
 }
 
