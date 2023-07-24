@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Career-Portfolio/static/css/main.fc497156.css",
-    "main.js": "/React-Career-Portfolio/static/js/main.ccbe9179.js",
+    "main.js": "/React-Career-Portfolio/static/js/main.5d441054.js",
     "static/media/cover-image.jpg": "/React-Career-Portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
     "static/media/blog-hits.jpg": "/React-Career-Portfolio/static/media/blog-hits.425bbd4a2b8fef88a9af.jpg",
     "static/media/Poke-Feels-Movie-Edition.jpg": "/React-Career-Portfolio/static/media/Poke-Feels-Movie-Edition.547a2173d93dea25f757.jpg",
@@ -12,10 +12,10 @@
     "static/media/thought-wand.jpg": "/React-Career-Portfolio/static/media/thought-wand.ba0ff23d57fd2f7e67dd.jpg",
     "index.html": "/React-Career-Portfolio/index.html",
     "main.fc497156.css.map": "/React-Career-Portfolio/static/css/main.fc497156.css.map",
-    "main.ccbe9179.js.map": "/React-Career-Portfolio/static/js/main.ccbe9179.js.map"
+    "main.5d441054.js.map": "/React-Career-Portfolio/static/js/main.5d441054.js.map"
   },
   "entrypoints": [
     "static/css/main.fc497156.css",
-    "static/js/main.ccbe9179.js"
+    "static/js/main.5d441054.js"
   ]
 }
