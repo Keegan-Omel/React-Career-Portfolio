@@ -183,7 +183,7 @@ header img {
   left: 0;
   height: auto;
   filter: sepia(1) opacity(90%);
-  opacity: 0.5;
+  opacity: 1.5;
 }
 
 nav {
