@@ -43,7 +43,7 @@ function Portfolio() {
     {
     name: 'xrpl-wallet',
     description: 'XRPL-Wallet is a simple browser-based wallet for the XRP Ledger',
-    link: "",
+    link: "https://keegan-omel.github.io/XRPL-Wallet/",
     repo: "https://github.com/Keegan-Omel/XRPL-Wallet",
     image: "xrpl-wallet"
   },
