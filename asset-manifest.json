@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Career-Portfolio/static/css/main.fc497156.css",
-    "main.js": "/React-Career-Portfolio/static/js/main.5d441054.js",
-    "static/media/cover-image.jpg": "/React-Career-Portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "main.css": "/React-Career-Portfolio/static/css/main.d4e1596e.css",
+    "main.js": "/React-Career-Portfolio/static/js/main.5c9e9502.js",
     "static/media/blog-hits.jpg": "/React-Career-Portfolio/static/media/blog-hits.425bbd4a2b8fef88a9af.jpg",
     "static/media/Poke-Feels-Movie-Edition.jpg": "/React-Career-Portfolio/static/media/Poke-Feels-Movie-Edition.547a2173d93dea25f757.jpg",
     "static/media/neighbourhood-library.jpg": "/React-Career-Portfolio/static/media/neighbourhood-library.253e225260382846ffb4.jpg",
+    "static/media/pexels-micotino-10044645.jpg": "/React-Career-Portfolio/static/media/pexels-micotino-10044645.1ab3786e386f21eaa9a5.jpg",
     "static/media/full.fern.prep.american design.jpg": "/React-Career-Portfolio/static/media/full.fern.prep.american design.90572460a583fc12345e.jpg",
     "static/media/xrpl-wallet.jpg": "/React-Career-Portfolio/static/media/xrpl-wallet.e4e21a4b350c6ff7c2ff.jpg",
     "static/media/pro-note.jpg": "/React-Career-Portfolio/static/media/pro-note.301f1a9d30ef4ef213c7.jpg",
     "static/media/thought-wand.jpg": "/React-Career-Portfolio/static/media/thought-wand.ba0ff23d57fd2f7e67dd.jpg",
     "index.html": "/React-Career-Portfolio/index.html",
-    "main.fc497156.css.map": "/React-Career-Portfolio/static/css/main.fc497156.css.map",
-    "main.5d441054.js.map": "/React-Career-Portfolio/static/js/main.5d441054.js.map"
+    "main.d4e1596e.css.map": "/React-Career-Portfolio/static/css/main.d4e1596e.css.map",
+    "main.5c9e9502.js.map": "/React-Career-Portfolio/static/js/main.5c9e9502.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc497156.css",
-    "static/js/main.5d441054.js"
+    "static/css/main.d4e1596e.css",
+    "static/js/main.5c9e9502.js"
   ]
 }
