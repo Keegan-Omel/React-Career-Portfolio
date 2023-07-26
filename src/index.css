@@ -131,6 +131,7 @@ img {
   object-fit: cover;
 }
 
+
 span[role='img'] {
   cursor: default;
 }
@@ -180,13 +181,9 @@ header img {
   position: absolute;
   top: 0;
   left: 0;
-  object-fit: contain;
+  height: auto;
   filter: sepia(1) opacity(90%);
   opacity: 1.5;
-}
-
-.header-container {
-  height: 300px;
 }
 
 nav {
