@@ -47,6 +47,13 @@ function Portfolio() {
     repo: "https://github.com/Keegan-Omel/XRPL-Wallet",
     image: "xrpl-wallet"
   },
+  {
+    name: 'EventHive',
+    description: 'EventHive is a single-page application built using the MERN stack (MongoDB, Express, React, Node.js) that empowers users to create, manage, and attend events effortlessly. This document serves as a comprehensive guide to understand and use the application effectively.',
+    link: "https://eventhive-d385699de8e6.herokuapp.com/",
+    repo: "https://github.com/Keegan-Omel/Event-Hive",
+    image: "eventHive"
+  },
   ]);
 
   return (
